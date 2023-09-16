@@ -1,7 +1,7 @@
 
 # RioPal
 
-A REST API for implementing CRUD operations on products and orders. This should not be confused with PayPal:-)
+A REST API for implementing CRUD operations on products and orders. This should not be confused with PayPal
 
 
 
